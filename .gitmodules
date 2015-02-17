@@ -5,3 +5,7 @@
 [submodule "content/themes/moderne"]
 	path = content/themes/moderne
 	url = https://github.com/itsnydell/moderne.git
+
+[submodule "content/themes/uno-zen"]
+  path = content/themes/uno-zen
+  url = https://github.com/Kikobeats/uno-zen.git
